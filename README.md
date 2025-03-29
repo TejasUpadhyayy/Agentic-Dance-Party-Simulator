@@ -1,6 +1,6 @@
-# Artificial Dance Party Simulation
+# Agentic Dance Party Simulation
 
-Artificial Dance Party Simulation is an advanced multi-agent system that models emergent social behaviors in a dance party environment. The simulation demonstrates complex social dynamics, relationship formation, and trend propagation through autonomous agents that respond to music and interact with each other.
+This is an advanced multi-agent system that models emergent social behaviors in a dance party environment. The simulation demonstrates complex social dynamics, relationship formation, and trend propagation through autonomous agents that respond to music and interact with each other.
 
 ## Features
 
