@@ -1,6 +1,6 @@
 # Agentic Dance Party Simulation
 
-P.S. I was SO tired of making useful projects and stuff for internships and academics. So made this on a whim, just something for fun. Enjoy. 
+## P.S. I was SO tired of making useful projects and stuff for internships and academics. So made this on a whim, just something for fun. Enjoy. 
 
 This is an advanced multi-agent system that models emergent social behaviors in a dance party environment. The simulation demonstrates complex social dynamics, relationship formation, and trend propagation through autonomous agents that respond to music and interact with each other.
 
