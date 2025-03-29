@@ -13,6 +13,11 @@ This is an advanced multi-agent system that models emergent social behaviors in 
 - **Camera Controls:** Zoom in/out and focus on specific dancers or areas.
 - **Adjustable Dance Floor:** Change the size of the dance floor to create different crowd densities.
 
+![dp1](https://github.com/user-attachments/assets/77ca6e16-f6d6-45a0-8e62-5ea904fc8d55)
+![dp2](https://github.com/user-attachments/assets/8fcd910c-3d99-43c2-aac5-45acc07abc9f)
+![dp3](https://github.com/user-attachments/assets/b2dea261-799e-40ad-971c-71e457858860)
+
+
 ## Technical Implementation
 
 The simulation integrates several advanced computational models:
